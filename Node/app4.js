@@ -29,7 +29,7 @@ console.log(newVarible);
 
 const arr = ['hello ', 'world', 123 , true ];//arrays
 console.log(arr);
-const myobj = {"first ":"sanjay",last:"tulabandula",age : "none"};
+const myobj = {first :"sanjay",last:"tulabandula",age : "none"};
 console.log(myobj);//objects
 
 let myStr = "hello";
